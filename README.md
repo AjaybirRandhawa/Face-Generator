@@ -9,7 +9,7 @@ A ProGAN is similar to a GAN but in the sense the images are started at low res 
 Face Generator Using Nvidia's NN's. While training an GAN on a personal machine would've been preferred, current resources did not allow for that. So instead, I used the already created Nvidia GAN and slightly modified its generation and strung togegther the produced images to create a small clip of a changing face. The final result can be seen below.
 
 <p align = "center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uh920Nd_kgk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<frame width="560" height="315" src="https://www.youtube.com/embed/uh920Nd_kgk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></frame>
   </p>
 
 
