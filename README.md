@@ -11,4 +11,5 @@ Face Generator Using Nvidia's NN's. While training an GAN on a personal machine 
 
 ## Notes
 
-This was a simple implementation exercise and all credits for the concepts of a ProGAN and the construction of the NVIDIA model belong to their respective owners.
+The [dataset](https://www.kaggle.com/lamsimon/celebahq) for the ProGAN implementation can be found on Kaggle and for this implementation, I only used the train dataset and deleted the val dataset. Make sure the dataset is being correctly named in config.py file if you do change anything.
+This was a simple implementation exercise and all credits for the concepts of a ProGAN and the construction of both model's belong to their respective owners.
